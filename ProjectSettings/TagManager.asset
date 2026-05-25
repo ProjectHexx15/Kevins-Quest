@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Shield
+  - Spike
+  - Egg
+  - Ground
+  - Bird
+  - Fly
+  - Home
+  - Pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Foreground
+  - Enemy
+  - Player
+  - Items
+  - Ground
+  - Home
+  - HUD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Decorations
+    uniqueID: 1166430701
+    locked: 0
+  - name: Trees
+    uniqueID: 337063339
+    locked: 0
+  - name: Spikes
+    uniqueID: 3940992009
+    locked: 0
+  - name: Ground
+    uniqueID: 139876175
+    locked: 0
+  - name: Enemies
+    uniqueID: 2080272283
+    locked: 0
